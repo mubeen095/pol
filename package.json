@@ -1,0 +1,32 @@
+{
+  "name": "e-learning-platform",
+  "version": "1.0.0",
+  "description": "An e-learning platform focused on good UI/UX, inspired by Growth School.",
+  "main": "src/App.tsx",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "axios": "^1.9.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.30.0",
+    "typescript": "^4.1.2"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.85",
+    "@types/react-dom": "^17.0.26",
+    "@types/react-router-dom": "^5.1.7"
+  },
+  "keywords": [
+    "e-learning",
+    "education",
+    "online courses",
+    "UI/UX"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}
